@@ -96,7 +96,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Kashifgilani&theme=dracula&hide_border=true&border_color=00BFFF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developerkids&theme=dracula&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
